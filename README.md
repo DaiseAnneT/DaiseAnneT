@@ -17,4 +17,4 @@
 - Ferramentas: [lista de ferramentas]
 
 ## Contato
-- [LinkedIn]([link](https://www.linkedin.com/in/daise-anne-ten%C3%B3rio-739631197/))
+- [LinkedIn](https://www.linkedin.com/in/daise-anne-ten%C3%B3rio-739631197/)
