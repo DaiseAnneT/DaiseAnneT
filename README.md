@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Anne! 👋
 
-<!--
-**DaiseAnneT/DaiseAnneT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🔭 Atualmente estou trabalhando em [projeto].
+- 🌱 Estou aprendendo ADS.
+- 👯 Estou procurando colaborar em [tipo de projeto].
+- 📫 Como me encontrar: daiseanne.t@gmail.com.
+- 😄 Pronomes: Ela/Dela.
+- ⚡ Curiosidade: Sou Cosplayer e Cosmaker nas horas vagas.
 
-Here are some ideas to get you started:
+## Projetos
+- [Projeto 1](link) - Descrição breve.
+- [Projeto 2](link) - Descrição breve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Linguagens: [lista de linguagens]
+- Ferramentas: [lista de ferramentas]
+
+## Contato
+- [LinkedIn]([link](https://www.linkedin.com/in/daise-anne-ten%C3%B3rio-739631197/))
