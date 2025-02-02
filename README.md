@@ -6,7 +6,7 @@
 - 👯 Estou procurando colaborar em [tipo de projeto].
 - 📫 Como me encontrar: daiseanne.t@gmail.com.
 - 😄 Pronomes: Ela/Dela.
-- ⚡ Curiosidade: Sou Cosplayer e Cosmaker nas horas vagas.
+- ⚡ Curiosidade: [Sou Cosplayer e Cosmaker nas horas vagas].
 
 ## Projetos
 - [Projeto 1](link) - Descrição breve.
